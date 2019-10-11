@@ -10,7 +10,7 @@ UX Designer driven by cross-functional collaboration and continuous learning. My
 UX research // usability testing // stakeholder interview // user interview // problem solving // Monday.com // Google forms // SurveyMonkey // visual design // interaction design // prototyping // wireframing // storyboarding // Sketch // InVison // Adobe XD // Figma // Principle // Lucidchart // bilingual in Mandarin Chinese
 
 ### EDUCATION
-**Bachelor of Arts in Mathematics (BA)** | **University of Washington** | _June 2010_
+**Bachelor of Arts in Mathematics (BA)** | **University of Washington** | _June 2010_ <br>
 **UXDI Immersive** | **General Assembly** | _May 2019 - August 2019_
 
 **_BOEING EMPLOYEE CREDIT UNION_**  
