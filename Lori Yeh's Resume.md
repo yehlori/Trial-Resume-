@@ -15,13 +15,11 @@ UX research // usability testing // stakeholder interview // user interview // p
 
 ### COURSE PROJECTS
 
-**_BOEING EMPLOYEE CREDIT UNION_**  
-_Senior Member Consultant | September 2015 - present | Seattle, WA_      
-* Provide quality service to members, clarifying pertinent details around factors that determine loan decisions    
-* Assist members in becoming financially successful through financial advice and education that help build and maintain  strong credit character    
-* Monitor daily quality check reports and compliance dashboards to create process improvements that increase efficiency by eliminating errors    
-* Perform monthly and quarterly audits to ensure the highest level of accuracy and efficiency    
-* Originate and close loans in excess of 5 million dollars while minimizing risk by adhering to underwriting guidelines  
+**Project Manager/UX Designer** | **Seattle Yellow Cab: Mobile App Redesign** | _June 2019 - July 2019_
+* Redesign mobile app for Seattle taxi cab riders
+* Created task flow and user journey map to develop usability and integrate new features
+* Performed card sorting to improve navigation for the payment process design
+
 
 **_MARRIOTT INTERNATIONAL, INC_**  
 _Seattle Waterfront Marriott, Guest Service Representative | June 2015 - September 2015 | Seattle, WA_     
