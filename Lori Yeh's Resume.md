@@ -1,7 +1,7 @@
 # **LORI YEH**
 **UX Designer**
 
-Portfolio: loriyeh.com | www.linkedin.com/in/lori-yeh <br>
+Portfolio: [loriyeh.com](http://loriyeh.com) | www.linkedin.com/in/lori-yeh <br>
 425.283.3055 | lori.n.yeh@gmail.com 
     
 UX Designer driven by cross-functional collaboration and continuous learning. My math and banking background taught me to use problem solving and active listening skills to compel aesthetically human-centered design solutions. I enjoy merging quantitative methods with design thinking to create data-driven experiences for the user. My work is driven by my passion: using technological innovation to make the world a safer, healthier and happier place.
