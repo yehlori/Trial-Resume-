@@ -27,7 +27,7 @@ UX research // usability testing // stakeholder interview // user interview // p
 
 ### EXPERIENCE
 
-**UX Researcher** | **Waldron: Website Redesign** | _September 2019 - Present 
+**UX Researcher** | **Waldron: Website Redesign** | _September 2019 - Present_ 
 * Research over 10 different Human Resource outplacement and leadership development companies 
 * Design questionnaires, discussion guides, surveys and b2b customer journey map 
 * Collaborate with stakeholder and project manager to identify and prioritize research opportunities
