@@ -25,40 +25,27 @@ UX research // usability testing // stakeholder interview // user interview // p
 * Completed a competitive analysis and user persona as a design tool
 * Created paper prototype and designed wireframes for usability testing
 
+### EXPERIENCE
+
+**UX Researcher** | **Waldron: Website Redesign** | _September 2019 - Present 
+* Research over 10 different Human Resource outplacement and leadership development companies 
+* Design questionnaires, discussion guides, surveys and b2b customer journey map 
+* Collaborate with stakeholder and project manager to identify and prioritize research opportunities
+
+**UX Researcher** | **Karma Financial: iOS Mobile App Design** | _July 2019 - August 2019_
+* Initiated and completed a competitive analysis on 16 companies
+* Led user research and interviewed 12 target users, affinity diagrammed the results to find pain points 
+* Communicated research findings continuously to ensure designs stayed aligned with user needs
+* Conducted usability testing for interaction design feedback
+
+**Member Consultant** | **WSECU** | _March 2017 - May 2019_
+* Managed over 60 bank accounts daily while performing financial operations; followed up on escalations with the appropriate department and researched current banking regulation
+* Continually exceeded quarterly member service sales and loan production goals by 30%
+* Communicated effectively with team members and new hires 
+
+**Hotel Concierge** | **Marriott International** | _August 2014 - September 2015_
+* Designed and implemented Concierge Guest Delighter's Program to effectively increase Guest Satisfaction Service overall scores by 20%
+* Created a weekly newsletter that provides arriving guests events and attractions around the city
+* Researched and arranged a wide variety of requests for the largest hotel in Washington D.C.
 
 
-**_MARRIOTT INTERNATIONAL, INC_**  
-_Seattle Waterfront Marriott, Guest Service Representative | June 2015 - September 2015 | Seattle, WA_     
-* Proven ability to succeed at building strong client/customer relationships due to an exceptional display of leadership, interpersonal skills, and sheer creativity    
-* Acted as first point of contact between clients and all departments within the Marriott; researching and arranging a wide variety requests including tours, reservations, car rentals, services, and private events     
-
-_Marriott Marquis Washington D.C., Hotel Concierge | June 2014 - June 2015 | Washington, D.C._      
-* Researched and arranged a wide variety of requests for the largest hotel in Washington D.C., including tours, restaurant recommendations, car rentals, flowers, and private events     
-* Promoted wellness and health to co-workers by leading monthly yoga classes and daily video presentations      
-* Designed and implemented Concierge Guest Delighters Program to effectively increase Guest Satisfaction Service overall scores by 100%   
-
-**_MOBILE INTEGRATION WORKGROUP_**  
-_Human Resource Analyst/ Payroll Manager | October 2010 - November 2011 | Bellevue, WA_    
-* Completed weekly payroll deadlines, and audited contractor time sheets and expense reports for over 100 employees  
-* Audited company projects for financial errors and increased bill rate/pay rate efficiency by 25%  
-* Accurately responded to verifications and inquiries for unemployment and payroll related inquiries  
-
-**_BANK OF AMERICA_**  
-_Senior Teller | January 2006 - January 2010 | Seattle, WA_  
-* Highly proficient around banking product knowledge, sales, operations, and time-management    
-* Performed daily audit on vault and sent out excess cash as needed to maintain regulatory cash limits    
-* Recommend products to a variety of clients through cross selling and uncovering client needs    
-
-### SKILLS & RECOGNITION    
-* Fluent in Mandarin; translated pertinent banking information and policies for foreign clients  
-* Ability to rally individuals to success through identifying obstacles and uplifting morale through motivation and development  
-* Wellness Achievement Award, wellness Committee, Marriott Marquis Washington D.C., January 2015  
-* Tag Property Management, accounts payable, volunteer admin assistant, June 2012 - December 2013  
-* Certified Yoga Instructor, Hot Yoga Inc., 200RYT, July 2013- present   
-* Miss Congeniality Scholarship Award, Seattle Chinese Chamber of Commerce, June 2009-June 2013   
-* Seattle Chinese Immigration Service Center, volunteer English tutor for foreign and low income families  
-* Top Customer Service Award, Bank of America, King County, Washington, December 2007    
-
-### UNIVERSTIY OF WASHINGTON    
-_Bachelors of Arts; Mathematics | June 2010 | Seattle, WA_    
-* Actuary Club Treasurer, University of Washington    
