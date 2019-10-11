@@ -1,7 +1,7 @@
-# **Lori N. Yeh**  
+# **Lori Yeh**  
 ___
-4235 Brooklyn Ave. N.E | Seattle, WA 98105  
-425.283.3055 | yehlori@gmail.com   
+425.283.3055 | lori.n.yeh@gmail.com 
+www.linkedin.com/in/lori-yeh | Portfolio: loriyeh.com  
   
 <br>   
 ###PROFESSIONAL EXPERIENCES  
