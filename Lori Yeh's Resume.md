@@ -38,7 +38,7 @@ _Senior Teller | January 2006 - January 2010 | Seattle, WA_
 * Performed daily audit on vault and sent out excess cash as needed to maintain regulatory cash limits    
 * Recommend products to a variety of clients through cross selling and uncovering client needs    
 
-###SKILLS & RECOGNITION    
+### SKILLS & RECOGNITION    
 * Fluent in Mandarin; translated pertinent banking information and policies for foreign clients  
 * Ability to rally individuals to success through identifying obstacles and uplifting morale through motivation and development  
 * Wellness Achievement Award, wellness Committee, Marriott Marquis Washington D.C., January 2015  
@@ -48,6 +48,6 @@ _Senior Teller | January 2006 - January 2010 | Seattle, WA_
 * Seattle Chinese Immigration Service Center, volunteer English tutor for foreign and low income families  
 * Top Customer Service Award, Bank of America, King County, Washington, December 2007    
 
-###UNIVERSTIY OF WASHINGTON    
+### UNIVERSTIY OF WASHINGTON    
 _Bachelors of Arts; Mathematics | June 2010 | Seattle, WA_    
 * Actuary Club Treasurer, University of Washington    
