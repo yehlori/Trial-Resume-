@@ -11,6 +11,7 @@ UX research // usability testing // stakeholder interview // user interview // p
 
 ### EDUCATION
 **Bachelor of Arts in Mathematics (BA)** | **University of Washington** | _June 2010_
+**UXDI Immersive** | **General Assembly** | _May 2019 - August 2019_
 
 **_BOEING EMPLOYEE CREDIT UNION_**  
 _Senior Member Consultant | September 2015 - present | Seattle, WA_      
