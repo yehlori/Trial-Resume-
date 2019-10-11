@@ -4,9 +4,10 @@
 Portfolio: loriyeh.com | www.linkedin.com/in/lori-yeh <br>
 425.283.3055 | lori.n.yeh@gmail.com 
     
-UX Designer driven by cross-functional collaboration and continuous learning. My math and banking background taught me to use problem solving and active listening skills to compel aesthetically human-centered design solutions. I enjoy merging quantitative methods with design thinking to create robustly data-driven experiences for the user. My work is driven by my passion: using technological innovation to make the world a safer, healthier and happier place.
+UX Designer driven by cross-functional collaboration and continuous learning. My math and banking background taught me to use problem solving and active listening skills to compel aesthetically human-centered design solutions. I enjoy merging quantitative methods with design thinking to create data-driven experiences for the user. My work is driven by my passion: using technological innovation to make the world a safer, healthier and happier place.
 
-### PROFESSIONAL EXPERIENCES  
+### SKILLS & SOFTWARES
+UX research // usability testing // stakeholder interview // user interview // problem solving // Monday.com // Google forms // SurveyMonkey // visual design // interaction design // prototyping // wireframing // storyboarding // Sketch // InVison // Adobe XD // Figma // Principle // Lucidchart // bilingual in Mandarin Chinese
 
 **_BOEING EMPLOYEE CREDIT UNION_**  
 _Senior Member Consultant | September 2015 - present | Seattle, WA_      
