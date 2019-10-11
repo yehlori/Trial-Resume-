@@ -20,6 +20,12 @@ UX research // usability testing // stakeholder interview // user interview // p
 * Created task flow and user journey map to develop usability and integrate new features
 * Performed card sorting to improve navigation for the payment process design
 
+**UX/UI Designer** | **Shanghai Garden: Website Redesign** | _June 2019 - July 2019_
+* Redesigned restaurant website with an online ordering system and check out process. 
+* Completed a competitive analysis and user persona as a design tool
+* Created paper prototype and designed wireframes for usability testing
+
+
 
 **_MARRIOTT INTERNATIONAL, INC_**  
 _Seattle Waterfront Marriott, Guest Service Representative | June 2015 - September 2015 | Seattle, WA_     
