@@ -1,5 +1,5 @@
 
-# **Lori Yeh**
+### **Lori Yeh**
 UX Designer
 
 425.283.3055 | lori.n.yeh@gmail.com <br>
