@@ -9,6 +9,9 @@ UX Designer driven by cross-functional collaboration and continuous learning. My
 ### SKILLS & SOFTWARES
 UX research // usability testing // stakeholder interview // user interview // problem solving // Monday.com // Google forms // SurveyMonkey // visual design // interaction design // prototyping // wireframing // storyboarding // Sketch // InVison // Adobe XD // Figma // Principle // Lucidchart // bilingual in Mandarin Chinese
 
+## EDUCATION
+**Bachelor of Arts in Mathematics (BA)** | University of Washington | _June 2010_
+
 **_BOEING EMPLOYEE CREDIT UNION_**  
 _Senior Member Consultant | September 2015 - present | Seattle, WA_      
 * Provide quality service to members, clarifying pertinent details around factors that determine loan decisions    
