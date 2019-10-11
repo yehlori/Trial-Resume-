@@ -1,10 +1,10 @@
 # **Lori Yeh**  
 ___
-425.283.3055 | lori.n.yeh@gmail.com 
+425.283.3055 | lori.n.yeh@gmail.com <br>
 Portfolio: loriyeh.com | www.linkedin.com/in/lori-yeh   
   
 <br>   
-###PROFESSIONAL EXPERIENCES  
+### PROFESSIONAL EXPERIENCES  
 
 **_BOEING EMPLOYEE CREDIT UNION_**  
 _Senior Member Consultant | September 2015 - present | Seattle, WA_      
